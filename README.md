@@ -1,2 +1,2 @@
 # Course-Work
-This repository contains minor projects completed for classes
+This repository contains projects completed for classes
